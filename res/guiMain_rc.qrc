@@ -1,0 +1,11 @@
+<RCC>
+<qresource prefix="">    
+<file>Gnome-elimina.png</file>
+</qresource>
+<qresource prefix="">    
+<file>Gnome-modifica.png</file>
+</qresource>
+<qresource prefix="">    
+<file>Gnome-nuovo.png</file>
+</qresource>
+</RCC>
