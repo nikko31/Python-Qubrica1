@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 '''
-Nikko31
+Nikko31 uno
 '''
 
 # Importo alcuni moduli fondamentali di Qt
